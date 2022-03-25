@@ -29,7 +29,7 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '𝒀𝑨𝑵𝒁 Multi device'
-global.author = 'Ilman'
+global.author = '𝒀𝑨𝑵𝒁'
 global.email = 'wakabahiiro5@gmail.com'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wm = '© 𝒀𝑨𝑵𝒁-Md Made by Ilman'
